@@ -57,7 +57,7 @@
 	url = https://github.com/erfaan/pelican-theme-irfan.git
 [submodule "svbhack"]
 	path = svbhack
-	url = https://github.com/giulivo/pelican-svbhack.git
+	url = https://github.com/gfidente/pelican-svbhack.git
 [submodule "html5-dopetrope"]
 	path = html5-dopetrope
 	url = https://github.com/PierrePaul/html5-dopetrope.git
@@ -72,7 +72,8 @@
 	url = https://github.com/porterjamesj/crowsfoot.git
 [submodule "elegant"]
 	path = elegant
-	url = https://github.com/talha131/pelican-elegant.git
+	url = https://github.com/Pelican-Elegant/elegant.git
+	branch = master
 [submodule "niu-x2"]
 	path = niu-x2
 	url = https://github.com/wilbur-ma/niu-x2.git
@@ -244,3 +245,22 @@
 [submodule "MinimalXY"]
 	path = MinimalXY
 	url = https://github.com/petrnohejl/MinimalXY.git
+[submodule "pelican-fh5co-marble"]
+	path = pelican-fh5co-marble
+	url = https://github.com/claudio-walser/pelican-fh5co-marble.git
+[submodule "grid-focus"]
+	path = grid-focus
+	url = https://github.com/oulenz/pelican-grid-focus.git
+[submodule "brutalist"]
+	path = brutalist
+	url = https://github.com/mamcmanus/brutalist.git
+[submodule "simplify-theme"]
+	path = simplify-theme
+	url = https://github.com/vuquangtrong/simplify-theme.git
+[submodule "buruma"]
+	path = buruma
+	url = https://github.com/ivanhercaz/buruma.git
+	branch = pelican-themes
+[submodule "pelican-b-side"]
+	path = pelican-b-side
+	url = https://gitlab.com/jhauh/pelican_b_side.git
